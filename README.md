@@ -1,5 +1,5 @@
 # dy310_unidbg_sign
-use unidbg to emulate dy 23.3.0 for X-Medusa and X-Helios
+use unidbg to emulate dy 31.1.0 for X-Medusa and X-Helios
 
 ## how to run
 1. git clone https://github.com/zhkl0228/unidbg (the version is [3512f1d33c417c2f835430916b58612b0f7d599c](https://github.com/zhkl0228/unidbg/commit/3512f1d33c417c2f835430916b58612b0f7d599c))
